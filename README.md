@@ -1,2 +1,2 @@
-Cool thing
-[https://www.reddit.com/r/linuxmemes/comments/1wrw0bm/comment/pchbicw/?screen_view_count=2&ext-referrer=DIRECT](https://www.reddit.com/r/linuxmemes/comments/1wrw0bm/comment/pchbicw/?screen_view_count=2&ext-referrer=DIRECT)
+Cool Thing <br>
+[https://www.reddit.com/r/linuxmemes/comments/1wrw0bm/i_made_the_linux_kernel_a_png/](https://www.reddit.com/r/linuxmemes/comments/1wrw0bm/i_made_the_linux_kernel_a_png/)
